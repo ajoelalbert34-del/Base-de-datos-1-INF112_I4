@@ -31,7 +31,7 @@ Ingeniería Informática · UAGRM
 
 | Unidad | Tema | Horas | Enlace |
 |--------|------|-------|--------|
-| **Unidad I** | Introducción a los Sistemas de Bases de Datos | 12 hs | [📖 Ver](Unidad-1) |
+| **Unidad I** | Introducción a los Sistemas de Bases de Datos | 12 hs | [📖 Ver](https://github.com/ajoelalbert34-del/Base-de-datos-1-INF112_I4/tree/Unidad-1) |
 | **Unidad II** | Diseño Conceptual bajo Modelo Orientado a Objetos | 20 hs | [📖 Ver](unidad2/README.md) |
 | **Unidad III** | Modelo Relacional | 18 hs | [📖 Ver](unidad3/README.md) |
 | **Unidad IV** | Lenguaje Estructurado de Consulta (SQL) | 20 hs | [📖 Ver](unidad4/README.md) |
