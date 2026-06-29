@@ -18,7 +18,7 @@
   * Arariyo Cachari Joel Albert
     
 📘 Documento Final
-👉 [Abrir documento](./Informe_Final.pdf)
+👉 [Abrir documento](./HYGORA.docx)
 
 🗄️ Diagrama ER
 👉 [Abrir diagrama](./DiagramaER.pdf)
