@@ -17,39 +17,11 @@
 ## 👨‍🎓 Estudiante
   * Arariyo Cachari Joel Albert
     
-Aplicación Web HYGORA
+📘 Documento Final
+👉 [Abrir documento](./Informe_Final.pdf)
 
-👉 https://github.com/ajoelalbert34-del/hygora
+🗄️ Diagrama ER
+👉 [Abrir diagrama](./DiagramaER.pdf)
 
-En dicho repositorio se encuentra el sistema completo desarrollado, incluyendo:
-
-Dashboard administrativo
-Gestión de medicamentos
-Gestión de lotes
-Control de inventario
-Sistema de alertas
-Reportes
-Consulta pública
-📌 Relación entre Repositorios
-Base-de-datos-1-INF112_I4
-│
-├── Investigación
-├── Análisis
-├── Diseño
-├── Modelado
-├── Documentación
-│
-└──► HYGORA
-      ├── Aplicación Web
-      ├── Backend
-      ├── Base de Datos
-      ├── Dashboard
-      ├── Alertas
-      └── Reportes
-
-**Arariyo Joel Albert**  
-Ingeniería Informática · UAGRM
-
----
-
-
+🏥 Sistema Implementado (HYGORA)
+👉 [Abrir repositorio](https://github.com/ajoelalbert34-del/hygora)
