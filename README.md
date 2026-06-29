@@ -21,7 +21,7 @@
 👉 [Abrir documento](./HYGORA.docx)
 
 🗄️ Diagrama ER
-👉 [Abrir diagrama](./DiagramaER.pdf)
+👉 [Abrir diagrama](./HYGORA(proyecto).pdf)
 
 🏥 Sistema Implementado (HYGORA)
 👉 [Abrir repositorio](https://github.com/ajoelalbert34-del/hygora)
